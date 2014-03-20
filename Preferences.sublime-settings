@@ -1,0 +1,38 @@
+{
+	"bold_folder_labels": true,
+	"caret_style": "phase",
+	"color_scheme": "Packages/User/Monokai Soda.tmTheme",
+	"create_window_at_startup": false,
+	"detect_indentation": true,
+	"detect_slow_plugins": false,
+	"drag_text": false,
+	"font_face": "Inconsolata",
+	"font_size": 17.0,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_active"
+	],
+	"line_padding_bottom": 2,
+	"line_padding_top": 2,
+	"open_files_in_new_window": false,
+	"preview_on_click": false,
+	"rulers":
+	[
+		80,
+		120
+	],
+	"scroll_past_end": true,
+	"soda_folder_icons": true,
+	"theme": "Soda Dark 3.sublime-theme",
+	"tree_animation_enabled": false,
+	"wide_caret": true,
+	"word_separators": "./\\()\"':,.;<>~!@#$%^&*|+=[]{}`~?",
+	"word_wrap": true,
+	"wrap_width": 120
+}
