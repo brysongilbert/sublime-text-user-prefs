@@ -1,0 +1,10 @@
+
+Monokai Soda.tmTheme
+
+Package Control.cache/*
+
+*.last-run
+
+*.sublime-settings
+
+*.system-ca-bundle
